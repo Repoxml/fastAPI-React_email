@@ -75,3 +75,6 @@ export default defineConfig([
 ])
 
 ```
+
+
+Mozliwy przyszły rozwój
