@@ -76,5 +76,4 @@ export default defineConfig([
 
 ```
 
-
-Mozliwy przyszły rozwój
+Możliwy przyszły rozwój
